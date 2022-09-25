@@ -1,4 +1,4 @@
 # Curso Database Experience DIO
-Aqui contem as atividades desenvolvidas no curso
+Aqui contém as atividades desenvolvidas no curso
 
 
